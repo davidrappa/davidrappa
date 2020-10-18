@@ -6,4 +6,4 @@
 Me chamo David, estou atualmente estudando dev. front-end e suas tecnologias para que possa ingressar no mercado de trabalho do mesmo! :D
 
 - 💻 **Linguagens:** Html, CSS e iniciante em JavaScript!
-- 📚 **Acadêmico:** Atualmente cursando análise e desenvolvimento de sistemas, cursando também **[Origamid](https://www.origamid.com/)** , **[Digital Innovation One]** (https://digitalinnovation.one/), **[Alura Cursos Online]** (https://www.alura.com.br/)
+- 📚 **Acadêmico:** Atualmente cursando análise e desenvolvimento de sistemas, cursando também **[Origamid](https://www.origamid.com/)** , **[Digital Innovation One](https://digitalinnovation.one/)**, **[Alura Cursos Online](https://www.alura.com.br/)**
