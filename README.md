@@ -1,6 +1,7 @@
-# David Rappa Jr. 💻
+
 
 <h1 align="center">Olá 👋, eu sou o David</h1>
+
 <h3 align="center">Atualmente estou cursando analise e desenvolvimento de sistemas, focado em desenvolvimento front-end e cursando o mesmo na plataforma da Origamid.</h3>
 
 - 🌱 Atualmente estou aprendendo **Javascript e React**
