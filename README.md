@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é David, sou desenvolvedor de <strong>Front-End</strong> e estudante de analise e desenvolvimento de sistemas.
+  Olá meu nome é David, sou desenvolvedor de <strong>Front-End</strong>, atualmente trabalhando na CFMOTO BRASIL e estudante de analise e desenvolvimento de sistemas.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS/Flex/Grid/Boostrap, JavaScript, Sass.</strong>
+  🦄 Habilidades: <strong>HTML5, CSS3/Flex/Grid/Boostrap/SASS/BEM, JavaScript ES6+, WORDPRESS/PHP.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE, PhotoShop, Git and GitHub.</strong>
+  💼 Ferramentas: <strong>VSCODE, Git/GitHub.</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
+  💌 Se você quer me conhecer um pouco melhor me siga nas redes abaixo e bora trocar uma ideia: ⤵️
 </p>
 
 <p align="left">
