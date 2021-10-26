@@ -28,15 +28,15 @@
 ![BEM](https://img.shields.io/badge/-BEM-494649?logo=BEM&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-494649?logo=React&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/-Typescript-494649?logo=Typescript&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-494649?style=for-the-badge&logo=React)
 
 ![Figma](https://img.shields.io/badge/-Figma-494649?logo=Figma&style=for-the-badge)
 <br>
 
 **Estudando**
 
-![Vue](https://img.shields.io/badge/-Vue.js-494649?style=for-the-badge&logo=Vue.js)
-![React/ReactNative](https://img.shields.io/badge/-React-494649?style=for-the-badge&logo=React)
-
+![ReactNative](https://img.shields.io/badge/-React-494649?style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/-React-494649?style=for-the-badge&logo=React)
 
 <br>
 
@@ -46,15 +46,14 @@
 
 **Status**
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=davidrappa&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=davidrappa&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&hide=php&theme=tokyonight">
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&hide=php&theme=tokyonight" />
-</a>
+</a> -->
 </div>
