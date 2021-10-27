@@ -1,10 +1,10 @@
-![d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq](https://pa1.narvii.com/6490/d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq.gif)
-
 <p align="center">
   <img src="https://pa1.narvii.com/6490/d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq.gif" alt="animated" />
 </p>
 
-<p align="left">
+### Olá, meu nome é David e sou Dev. front-end na Nerdstore 🖖🏼 
+
+<p align="center">
   <a href="https://www.instagram.com/david1.jpg/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/david1.jpg/"/></a>
   
@@ -29,8 +29,8 @@
 
 <div align="center">
   <a href="https://github.com/davidrappa">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davidrappa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=davidrappa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&layout=compact&langs_count=7&theme=dracula"/>
    </a>
 </div>
 
