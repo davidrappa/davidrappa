@@ -1,4 +1,4 @@
-<p align="left"> ![d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq](https://pa1.narvii.com/6490/d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq.gif)</p>
+![d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq](https://pa1.narvii.com/6490/d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq.gif)
 
 <p align="left">
   <a href="https://www.instagram.com/david1.jpg/" alt="Instagram">
