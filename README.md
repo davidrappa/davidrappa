@@ -1,4 +1,4 @@
-![d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq](https://pa1.narvii.com/6490/d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq.gif)
+<p align="left"> ![d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq](https://pa1.narvii.com/6490/d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq.gif)</p>
 
 <p align="left">
   <a href="https://www.instagram.com/david1.jpg/" alt="Instagram">
@@ -13,13 +13,6 @@
 
 <br>
 
-**Linguagens**
-
-
-
-<br>
-
-**Tecnologias que trabalho ou trabalhei**
 
 ![HTML](https://img.shields.io/badge/-HTML-494649?logo=HTML5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-494649?logo=CSS3&style=for-the-badge)
@@ -42,4 +35,4 @@
    </a>
 </div>
 
-![Snake animation](https://github.com/davidrappa/davidrappa/blob/output/github-contribution-grid-snake.svg)
+
