@@ -20,7 +20,8 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&layout=compact&langs_count=7&theme=dracula"/>
    </a>
 </div>
-
+<br>
+<br>
 <p align="center">
   <a href="https://www.instagram.com/david1.jpg/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/david1.jpg/"/></a>
