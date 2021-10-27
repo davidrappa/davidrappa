@@ -2,19 +2,6 @@
   <img src="https://pa1.narvii.com/6490/d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq.gif" alt="animated" />
 </p>
 
-### Olá, meu nome é David e sou Dev. front-end na Nerdstore 🖖🏼 
-
-<p align="center">
-  <a href="https://www.instagram.com/david1.jpg/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/david1.jpg/"/></a>
-  
-  <a href="https://www.linkedin.com/in/davidrappa1" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidrappa1" /></a>
-
-  <a href="https://www.facebook.com/davidcristianRX/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/davidcristianRX/"/></a>
-</p>
-
 ![HTML](https://img.shields.io/badge/-HTML-494649?logo=HTML5&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-494649?logo=CSS3&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-494649?logo=JavaScript&style=for-the-badge)
@@ -34,4 +21,14 @@
    </a>
 </div>
 
+<p align="center">
+  <a href="https://www.instagram.com/david1.jpg/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/david1.jpg/"/></a>
+  
+  <a href="https://www.linkedin.com/in/davidrappa1" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidrappa1" /></a>
+
+  <a href="https://www.facebook.com/davidcristianRX/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/davidcristianRX/"/></a>
+</p>
 
