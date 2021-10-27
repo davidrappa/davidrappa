@@ -1,3 +1,5 @@
+![d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq](https://pa1.narvii.com/6490/d252ab9dd3163a0ff2b57875f74bdb51a44e4c77_hq.gif)
+
 <p align="left">
   <a href="https://www.instagram.com/david1.jpg/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/david1.jpg/"/></a>
@@ -13,15 +15,16 @@
 
 **Linguagens**
 
-![HTML](https://img.shields.io/badge/-HTML-494649?logo=HTML5&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-494649?logo=CSS3&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-494649?logo=JavaScript&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-494649?logo=PHP&style=for-the-badge)
+
 
 <br>
 
 **Tecnologias que trabalho ou trabalhei**
 
+![HTML](https://img.shields.io/badge/-HTML-494649?logo=HTML5&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-494649?logo=CSS3&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-494649?logo=JavaScript&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-494649?logo=PHP&style=for-the-badge)
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-494649?logo=Woocommerce&style=for-the-badge)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-494649?logo=Wordpress&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/-Sass-494649?logo=Sass&style=for-the-badge)
@@ -32,23 +35,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-494649?logo=Figma&style=for-the-badge)
 <br>
 
-**Estudando**
-
-![React](https://img.shields.io/badge/-React-494649?style=for-the-badge&logo=React)
-
-<br>
-
-**IDE**
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-494649?style=for-the-badge&logo=visual-studio-code)
-
-**Status**
-
-<div>
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=davidrappa&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=davidrappa&count_private=true&show_icons=true&theme=tokyonight" />
-</a> -->
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&hide=php&theme=tokyonight" />
-</a>
+<div align="center">
+  <a href="https://github.com/davidrappa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidrappa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidrappa&layout=compact&langs_count=7&theme=dracula"/>
+   </a>
 </div>
+
+![Snake animation](https://github.com/davidrappa/davidrappa/blob/output/github-contribution-grid-snake.svg)
