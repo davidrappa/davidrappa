@@ -12,6 +12,7 @@
 ![BEM](https://img.shields.io/badge/-BEM-494649?logo=BEM&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/-Typescript-494649?logo=Typescript&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-494649?style=for-the-badge&logo=React)
+![Flutter](https://img.shields.io/badge/-Flutter-494649?logo=Flutter&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-494649?logo=Figma&style=for-the-badge)
 
 <div align="center">
