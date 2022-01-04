@@ -7,8 +7,8 @@ Front knowledge and its technologies, focusing on mobile development.
 - HTML (semantics and accessibility)
 - CSS (flexbox, grid, styled-components and pre-processors)
 - Javascript ES6 +
-- Dart
-- React / React Native / Typescript
-- Flutter
+- React 
+- React Native
+- Typescript
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davidrappa1/)
