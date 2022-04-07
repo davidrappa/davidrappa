@@ -1,6 +1,6 @@
 ###  Hi I'm David Rappa 👋
 
-Front-end developer at Nerdstore. Student of systems analysis and development, young passionate about technology and website / application development.
+Mobile developer at Yampi. Student of systems analysis and development, young passionate about technology and website / mobile development.
 
 Front knowledge and its technologies, focusing on mobile development.
 
