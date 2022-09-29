@@ -1,14 +1,31 @@
-###  Hi I'm David Rappa 👋
+###  Hi there 👋
 
-Mobile developer at Yampi. Student of systems analysis and development, young passionate about technology and website / mobile development.
+I'm David Rappa and I'm a Frontend Developer focused on mobile development with React Native. I am studying Systems Analysis and Development. 
 
-Front knowledge and its technologies, focusing on mobile development.
+Currently, I work as a Mobile Developer (React Native) at [Yampi](https://www.yampi.com.br/). Previously I was Frontend Developer at [Nerdstore](https://nerdstore.com.br).
+
+I am from Americana, São Paulo, but today I live in Curitiba, Paraná.
+
+Passionate about Dracula theme and mobile development. When I'm not working, I like to cook, do some exercises and/or watch a series.
+
+I always work to solve problems objectively.
+
+#### Languages and tools I have worked or work with:
 
 - HTML (semantics and accessibility)
 - CSS (flexbox, grid, styled-components and pre-processors)
-- Javascript ES6 +
-- React 
-- React Native
-- Typescript
+- Javascript ES6+
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davidrappa1/)
+- React (NextJS)
+- React Native (CLI and Expo)
+- Typescript
+- Redux Toolkit
+
+- Wordpress
+- WooCommerce
+- PHP
+
+#### BIO
+- 👴 Professional exp.: 1.5yrs+
+- 🧑‍🏭 Personal website: [davidrappa.com.br](https://davidrappa.com.br)
+- 📫 Reach me: davidrappa@outlook.com or [Linkedin](https://www.linkedin.com/in/davidrappa1/)
