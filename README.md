@@ -9,11 +9,9 @@ Passionate about Dracula theme and mobile development. When I'm not working, I l
 I always work to solve problems objectively.
 
 #### Languages and tools I have worked or work with:
-
 - HTML (semantics and accessibility)
 - CSS (flexbox, grid, styled-components and pre-processors)
 - Javascript ES6+
-
 - React (NextJS)
 - React Native (CLI and Expo)
 - Typescript
