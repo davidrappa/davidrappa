@@ -5,6 +5,7 @@
 - Typescript
 - Javascript
 - Redux Toolkit
+- NextJS
 
 #### 🗣️ Languages:
 - Javascript
@@ -23,6 +24,6 @@
 - I currently work at [Yampi](https://www.yampi.com.br) as dev. mobile, developing new features for the application, bringing improvements and helping with bug fixes
   
 #### BIO
-- 👴 Professional exp.: 2yrs+
+- 👴 Professional exp.: 4yrs+
 - 🧑‍🏭 Personal website: [davidrappa.com.br](https://davidrappa.com.br)
 - 📫 Reach me: davidrappa@outlook.com or [Linkedin](https://www.linkedin.com/in/davidrappa1/)
