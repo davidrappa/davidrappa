@@ -1,29 +1,19 @@
 ###  Hi there 👋
 
-#### 🦾 My skills:
-- React Native (CLI/Expo)
-- Typescript
-- Javascript
-- Redux Toolkit
-- NextJS
-
-#### 🗣️ Languages:
-- Javascript
-- Typescript
-
-#### 🧰 Tools: 
-- Firebase
-- CodePush
-- Push Notification
-- Figma
-
 #### 📖 My story: 
 
-- I worked at [Nerdstore](https://www.nerdstore.com.br) as dev. frontend, with creation of landing pages, layout adjustments and e-commerce bug fixes, creation of a mobile and inventory control application.
+I'm a mobile software engineer with over 5 years of experience, specializing in development for mobile platforms at scale. I have been working remotely for Brazil. I have proven ability in React Native.
 
-- I currently work at [Yampi](https://www.yampi.com.br) as dev. mobile, developing new features for the application, bringing improvements and helping with bug fixes
-  
-#### BIO
-- 👴 Professional exp.: 4yrs+
+My mission is to deliver software that has a business impact with focus and onwership. I enjoy being involved in the full application development lifecycle, from conception and implementation to deployment, maintenance and monitoring. I proactively seek to implement best practices to ensure efficient and scalable solutions.
+
+I write high quality, well-tested code with a focus on readability and maintainability. I translate business requirements into technical specifications, fostering clear communication and efficient execution.
+
+I enjoy the process of building new & cool things. I am really good at building fast and scalable mobile apps.
+
+I currently work at [Yampi](https://www.yampi.com.br) as dev. mobile.
+
+- 👴 Professional exp.: 5yrs+
 - 🧑‍🏭 Personal website: [davidrappa.com.br](https://davidrappa.com.br)
 - 📫 Reach me: davidrappa@outlook.com or [Linkedin](https://www.linkedin.com/in/davidrappa1/)
+
+#### React Native | TypeScript | JavaScript | Firebase | Redux | ReactJS | Jest | React Native Testing Library | Xcode | React Navigation
